@@ -1,0 +1,196 @@
+﻿Country;GDP_Nominal_per_capita_dollar_2019;GDP_Nominal_per_capita_rank_2019;GDP_Nominal_per_capita_dollar_2020;GDP_Nominal_per_capita_rank_2020;GDP_Nominal_per_capita_dollar_change;GDP_Nominal_per_capita_rank_change;Continent
+Luxembourg;115839;1;109602;1;-6237;0;Europe
+Switzerland;82484;2;81867;2;-617;0;Europe
+Ireland;80504;3;79669;3;-835;0;Europe
+Norway;75294;5;67989;4;-7305;1;Europe
+United States;65254;7;63051;5;-2203;2;North America
+Singapore;65234;8;58484;6;-6750;2;Asia
+Denmark;59770;10;58439;7;-1331;3;Europe
+Iceland;67857;6;57189;8;-10668;-2;Europe
+Qatar;62919;9;52751;9;-10168;0;Asia
+Australia;54348;11;51885;10;-2463;1;Oceania
+Netherlands;52646;12;51290;11;-1356;1;Europe
+Sweden;51404;13;50339;12;-1065;1;Europe
+Austria;50380;14;48634;13;-1746;1;Europe
+Finland;48810;15;48461;14;-349;1;Europe
+Germany;46473;18;45466;15;-1007;3;Europe
+Hong Kong SAR;48627;16;45176;16;-3451;0;Asia
+Belgium;46237;20;43814;17;-2423;3;Europe
+Canada;46272;19;42080;18;-4192;1;North America
+San Marino;47622;17;41683;19;-5939;-2;Europe
+Israel;43603;21;41560;20;-2043;1;Asia
+France;41897;23;39257;21;-2640;2;Europe
+United Kingdom;42379;22;39229;22;-3150;0;Europe
+Japan;40256;25;39048;23;-1208;2;Asia
+Macao SAR;79251;4;38769;24;-40482;-20;Asia
+New Zealand;41667;24;38675;25;-2992;-1;Oceania
+United Arab Emirates;39180;26;31948;26;-7232;0;Asia
+Italy;33159;28;30657;27;-2502;1;Europe
+Korea;31846;30;30644;28;-1202;2;Asia
+Puerto Rico;32595;29;30113;29;-2482;0;North America
+The Bahamas;35664;27;30027;30;-5637;-3;North America
+Malta;30374;31;28469;31;-1905;0;Europe
+Taiwan Province of China;25873;38;26910;32;1037;6;Asia
+Spain;29993;32;26832;33;-3161;-1;Europe
+Cyprus;28049;35;26240;34;-1809;1;Europe
+Slovenia;25992;37;25039;35;-953;2;Europe
+Brunei Darussalam;29314;33;23117;36;-6197;-3;Asia
+Estonia;23758;40;22986;37;-772;3;Europe
+Bahrain;25998;36;22878;38;-3120;-2;Asia
+Czech Republic;23539;41;22627;39;-912;2;Europe
+Kuwait;28500;34;22252;40;-6248;-6;Asia
+Portugal;23132;43;21608;41;-1524;2;Europe
+Aruba;25745;39;20310;42;-5435;-3;North America
+Lithuania;19482;45;19883;43;401;2;Europe
+Saudi Arabia;23266;42;19587;44;-3679;-2;Asia
+Slovak Republic;19344;46;18669;45;-675;1;Europe
+Greece;19570;44;18168;46;-1402;-2;Europe
+Latvia;17772;50;17230;47;-542;3;Europe
+Trinidad and Tobago;17276;51;16197;48;-1079;3;North America
+Barbados;18139;49;16082;49;-2057;0;North America
+Hungary;16470;54;15373;50;-1097;4;Europe
+Uruguay;16111;55;15332;51;-779;4;South America
+Poland;15601;58;15304;52;-297;6;Europe
+St. Kitts and Nevis;18854;47;15246;53;-3608;-6;North America
+Oman;18198;48;14423;54;-3775;-6;Asia
+Palau;16064;56;14233;55;-1831;1;Oceania
+Antigua and Barbuda;17195;52;14159;56;-3036;-4;North America
+Panama;15834;57;14090;57;-1744;0;North America
+Croatia;14853;60;14033;58;-820;2;Europe
+Romania;12887;62;12813;59;-74;3;Europe
+Chile;14772;61;12612;60;-2160;1;South America
+Maldives;15505;59;12464;61;-3041;-2;Asia
+Seychelles;17127;53;12323;62;-4804;-9;Africa
+Costa Rica;12244;63;11629;63;-615;0;North America
+China;10522;69;10839;64;317;5;Asia
+Malaysia;11193;67;10192;65;-1001;2;Asia
+Russia;11601;65;9972;66;-1629;-1;Europe
+Bulgaria;9772;72;9826;67;54;5;Europe
+Grenada;11193;66;9824;68;-1369;-2;North America
+St. Lucia;11803;64;9780;69;-2023;-5;North America
+Mauritius;11090;68;8951;70;-2139;-2;Africa
+Nauru;9365;74;8867;71;-498;3;Oceania
+Kazakhstan;9750;73;8782;72;-968;1;Asia
+Guyana;6594;91;8649;73;2055;18;South America
+Argentina;9890;70;8433;74;-1457;-4;South America
+Turkmenistan;7724;84;8074;75;350;9;Asia
+Mexico;9862;71;8069;76;-1793;-5;North America
+Montenegro;8826;76;7933;77;-893;-1;Europe
+Turkey;9151;75;7715;78;-1436;-3;Europe
+Dominica;8305;80;7709;79;-596;1;North America
+Serbia;7382;87;7497;80;115;7;Europe
+Dominican Republic;8596;79;7445;81;-1151;-2;North America
+Thailand;7807;82;7295;82;-512;0;Asia
+Islamic Republic of Iran;7010;88;7257;83;247;5;Asia
+Gabon;8111;81;7185;84;-926;-3;Africa
+Equatorial Guinea;8690;78;7131;85;-1559;-7;Africa
+St. Vincent and the Grenadines;7464;86;7033;86;-431;0;North America
+Botswana;7773;83;6558;87;-1215;-4;Africa
+Brazil;8751;77;6450;88;-2301;-11;South America
+Belarus;6658;90;6134;89;-524;1;Europe
+North Macedonia;6109;95;6019;90;-90;5;Europe
+Peru;6958;89;5845;91;-1113;-2;South America
+Bosnia and Herzegovina;6015;98;5762;92;-253;6;Europe
+Ecuador;6222;93;5316;93;-906;0;South America
+Jamaica;5826;101;5221;94;-605;7;North America
+Colombia;6423;92;5207;95;-1216;-3;South America
+Tonga;5151;104;5023;96;-128;8;Oceania
+Paraguay;5233;103;4909;97;-324;6;South America
+Albania;5323;102;4898;98;-425;4;Europe
+South Africa;5978;99;4736;99;-1242;0;Africa
+Iraq;5884;100;4438;100;-1446;0;Asia
+Georgia;4765;107;4405;101;-360;6;Europe
+Fiji;6043;97;4371;102;-1672;-5;Oceania
+Armenia;4605;108;4315;103;-290;5;Europe
+Moldova;4458;110;4268;104;-190;6;Europe
+Guatemala;4354;113;4240;105;-114;8;North America
+Suriname;6191;94;4199;106;-1992;-12;South America
+Jordan;4426;112;4174;107;-252;5;Asia
+Kosovo;4429;111;4141;108;-288;3;Europe
+Azerbaijan;4814;106;4125;109;-689;-3;Europe
+Tuvalu;4309;115;4091;110;-218;5;Oceania
+Samoa;4231;116;4084;111;-147;5;Oceania
+Marshall Islands;4326;114;4071;112;-255;2;Oceania
+Namibia;5072;105;4052;113;-1020;-8;Africa
+Indonesia;4197;118;4038;114;-159;4;Asia
+Mongolia;4202;117;3990;115;-212;2;Asia
+Micronesia;4045;121;3855;116;-190;5;Oceania
+El Salvador;4187;119;3821;117;-366;2;North America
+Belize;4498;109;3734;118;-764;-9;North America
+Sri Lanka;3852;123;3698;119;-154;4;Asia
+Egypt;3044;135;3561;120;517;15;Africa
+Vietnam;3416;129;3498;121;82;8;Asia
+Bhutan;3357;130;3431;122;74;8;Asia
+Ukraine;3707;124;3425;123;-282;1;Europe
+Eswatini;4114;120;3415;124;-699;-4;Africa
+Philippines;3512;127;3373;125;-139;2;Asia
+Cabo Verde;3602;125;3358;126;-244;-1;Africa
+Algeria;3898;122;3331;127;-567;-5;Africa
+Bolivia;3566;126;3322;128;-244;-2;South America
+Tunisia;3293;132;3295;129;2;3;Africa
+Libya;6055;96;3282;130;-2773;-34;Africa
+Morocco;3332;131;3121;131;-211;0;Africa
+Djibouti;3103;134;3074;132;-29;2;Africa
+West Bank and Gaza;3426;128;2894;133;-532;-5;Asia
+Vanuatu;3186;133;2879;134;-307;-1;Oceania
+Lebanon;7661;85;2745;135;-4916;-50;Asia
+Papua New Guinea;2884;137;2652;136;-232;1;Oceania
+Lao P.D.R.;2661;139;2567;137;-94;2;Asia
+Honduras;2551;140;2412;138;-139;2;North America
+Solomon Islands;2494;141;2367;139;-127;2;Oceania
+Côte d'Ivoire;2230;144;2281;140;51;4;Africa
+Ghana;2221;145;2188;141;-33;4;Africa
+Nigeria;2230;143;2149;142;-81;1;Africa
+Republic of Congo;2746;138;2128;143;-618;-5;Africa
+Kenya;2004;147;2075;144;71;3;Africa
+Angola;2968;136;2021;145;-947;-9;Africa
+São Tomé and Príncipe;1980;148;1912;146;-68;2;Africa
+Bangladesh;1816;151;1888;147;72;4;Asia
+India;2098;146;1877;148;-221;-2;Asia
+Nicaragua;1920;149;1832;149;-88;0;North America
+Mauritania;1873;150;1791;150;-82;0;Africa
+Uzbekistan;1742;152;1763;151;21;1;Asia
+Venezuela;2299;142;1739;152;-560;-10;South America
+Kiribati;1672;153;1638;153;-34;0;Oceania
+Cambodia;1620;154;1572;154;-48;0;Asia
+Cameroon;1524;155;1493;155;-31;0;Africa
+Timor-Leste;1252;163;1456;156;204;7;Asia
+Senegal;1446;156;1455;157;9;-1;Africa
+Comoros;1362;157;1337;158;-25;-1;Africa
+Myanmar;1299;161;1333;159;34;2;Asia
+Pakistan;1349;158;1260;160;-89;-2;Asia
+Benin;1218;164;1259;161;41;3;Africa
+Kyrgyz Republic;1323;159;1148;162;-175;-3;Asia
+Nepal;1079;167;1116;163;37;4;Asia
+Tanzania;1080;166;1106;164;26;2;Africa
+Guinea;1012;168;1019;165;7;3;Africa
+Zambia;1318;160;1001;166;-317;-6;Africa
+Ethiopia;961;169;974;167;13;2;Africa
+Lesotho;1185;165;924;168;-261;-3;Africa
+Zimbabwe;1254;162;922;169;-332;-7;Africa
+Uganda;916;170;915;170;-1;0;Africa
+Mali;907;171;899;171;-8;0;Africa
+Tajikistan;873;172;834;172;-39;0;Asia
+Rwanda;816;173;823;173;7;0;Africa
+Burkina Faso;775;175;769;174;-6;1;Africa
+Guinea-Bissau;811;174;767;175;-44;-1;Africa
+The Gambia;774;176;746;176;-28;0;Africa
+Sudan;772;178;735;177;-37;1;Africa
+Haiti;773;177;732;178;-41;-1;North America
+Togo;675;182;690;179;15;3;Africa
+Liberia;694;180;654;180;-40;0;Africa
+Yemen;713;179;645;181;-68;-2;Asia
+Chad;686;181;640;182;-46;-1;Africa
+Eritrea;567;183;585;183;18;0;Africa
+Niger;554;184;536;184;-18;0;Africa
+Sierra Leone;539;185;518;185;-21;0;Africa
+Madagascar;525;186;515;186;-10;0;Africa
+Afghanistan;507;188;499;187;-8;1;Asia
+Central African Republic;480;190;480;188;0;2;Africa
+Democratic Republic of the Congo;509;187;457;189;-52;-2;Africa
+Mozambique;488;189;455;190;-33;-1;Africa
+Malawi;378;191;399;191;21;0;Africa
+South Sudan;369;192;303;192;-66;0;Africa
+Burundi;270;193;264;193;-6;0;Africa
+Syria;-;-;-;-;;;
+Somalia;-;-;-;-;;;
